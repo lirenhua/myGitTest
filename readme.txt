@@ -6,4 +6,5 @@ git has mutable index called stage.
 Git tracks changes of files
 Greeting branch
 Greating a new branch is quick & simple
+add merge
 
